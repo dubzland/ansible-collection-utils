@@ -1,0 +1,38 @@
+---
+namespace: dubzland
+name: utils
+version: "1.0.0"
+readme: README.md
+authors:
+  - Josh Williams <jdubz@dubzland.com>
+description: General purpose utilities for playbooks, collections, and roles.
+license_file: LICENSE
+tags:
+  - linux
+  - debian
+  - ubuntu
+  - utilities
+  - devops
+
+dependencies:
+  community.general: "*"
+
+repository: https://git.dubzland.com/dubzland/ansible-collection-utils
+
+# The URL to any online docs
+documentation: |
+  https://docs.dubzland.io/ansible-collections/collections/dubzland/utils/
+
+# The URL to the homepage of the collection/project
+homepage: https://git.dubzland.com/dubzland/ansible-collection-utils
+
+# The URL to the collection issue tracker
+issues: https://git.dubzland.com/dubzland/ansible-collection-utils/-/issues
+build_ignore:
+  - .ansible-lint
+  - .cache
+  - .gitignore
+  - .gitlab-ci.yml
+  - .venv
+  - .yamllint
+  - requirements-*.txt
