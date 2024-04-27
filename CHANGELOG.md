@@ -7,10 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- CI configuration now makes use of shared templates (#1)
+
 ## [1.0.0] - 2024-04-22
 
 ### Added
 
 - get/set_persistent_fact
 
+[unreleased]: https://git.dubzland.com/dubzland/ansible-collection-utils/-/compare/1.0.0...HEAD
 [1.0.0]: https://git.dubzland.com/dubzland/ansible-collection-utils/-/tree/1.0.0
