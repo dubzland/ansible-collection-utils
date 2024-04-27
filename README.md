@@ -21,16 +21,16 @@ Also tested against the current development version of `ansible-core`.
 
 ### Modules
 
-| Name                                                                      | Description                                    |
-| ------------------------------------------------------------------------- | ---------------------------------------------- |
-| [dubzland.utils.get_persistent_fact][get_persistent_fact]               | Retrieves facts stored as ansible custom facts |
-| [dubzland.utils.set_persistent_fact][set_persistent_fact]               | Stores facts in ansible custom facts           |
+| Name                                                      | Description                                    |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| [dubzland.utils.get_persistent_fact][get_persistent_fact] | Retrieves facts stored as ansible custom facts |
+| [dubzland.utils.set_persistent_fact][set_persistent_fact] | Stores facts in ansible custom facts           |
 
 ## Licensing
 
 This collection is primarily licensed and distributed as a whole under the GPLv3 License.
 
-See [LICENSE](https://git.dubzland.com/dubzland/ansible-collection-utils/blob/main/LICENSE) for the full text.
+See [COPYING](COPYING) for the full text.
 
 ## Author
 

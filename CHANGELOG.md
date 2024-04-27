@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - CI configuration now makes use of shared templates (#1)
+- LICENSE links/references now consistent (#2)
 
 ## [1.0.0] - 2024-04-22
 
