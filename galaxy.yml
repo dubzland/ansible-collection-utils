@@ -17,17 +17,17 @@ tags:
 dependencies:
   community.general: "*"
 
-repository: https://git.dubzland.com/dubzland/ansible-collection-utils
+repository: https://git.dubzland.com/dubzland/ansible-collections/utils
 
 # The URL to any online docs
 documentation: |
   https://docs.dubzland.io/ansible-collections/collections/dubzland/utils/
 
 # The URL to the homepage of the collection/project
-homepage: https://git.dubzland.com/dubzland/ansible-collection-utils
+homepage: https://git.dubzland.com/dubzland/ansible-collections/utils
 
 # The URL to the collection issue tracker
-issues: https://git.dubzland.com/dubzland/ansible-collection-utils/-/issues
+issues: https://git.dubzland.com/dubzland/ansible-collections/utils/-/issues
 build_ignore:
   - .ansible-lint
   - .cache

@@ -1,6 +1,6 @@
 # Ansible Collection: Utils
 
-[![Gitlab pipeline status (self-hosted)](https://git.dubzland.com/dubzland/ansible-collection-utils/badges/main/pipeline.svg)](https://git.dubzland.com/dubzland/ansible-collection-utils/pipelines?scope=all&page=1&ref=main)
+[![Gitlab pipeline status (self-hosted)](https://git.dubzland.com/dubzland/ansible-collections/utils/badges/main/pipeline.svg)](https://git.dubzland.com/dubzland/ansible-collections/utils/pipelines?scope=all&page=1&ref=main)
 [![Ansible Galaxy](https://img.shields.io/badge/dynamic/json?style=flat&label=galaxy&prefix=v&url=https://galaxy.ansible.com/api/v3/collections/dubzland/utils/&query=highest_version.version)](https://galaxy.ansible.com/ui/repo/published/dubzland/utils/)
 [![Liberapay patrons](https://img.shields.io/liberapay/patrons/jdubz)](https://liberapay.com/jdubz/donate)
 [![Liberapay receiving](https://img.shields.io/liberapay/receives/jdubz)](https://liberapay.com/jdubz/donate)
