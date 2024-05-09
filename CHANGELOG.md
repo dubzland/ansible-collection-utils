@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Update project location (ansible-collection-utils -> ansible-collections/utils) (#6)
 - CI configuration now makes use of shared templates (#1)
 - LICENSE links/references now consistent (#2)
 
@@ -18,5 +19,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - get/set_persistent_fact
 
-[unreleased]: https://git.dubzland.com/dubzland/ansible-collection-utils/-/compare/1.0.0...HEAD
-[1.0.0]: https://git.dubzland.com/dubzland/ansible-collection-utils/-/tree/1.0.0
+[unreleased]: https://git.dubzland.com/dubzland/ansible-collections/utils/-/compare/v1.0.0...HEAD
+[1.0.0]: https://git.dubzland.com/dubzland/ansible-collections/utils/-/tree/v1.0.0
