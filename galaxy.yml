@@ -6,7 +6,7 @@ readme: README.md
 authors:
   - Josh Williams <jdubz@dubzland.com>
 description: General purpose utilities for playbooks, collections, and roles.
-license_file: LICENSE
+license_file: COPYING
 tags:
   - linux
   - debian
